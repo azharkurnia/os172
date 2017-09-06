@@ -1,1 +1,3 @@
 #azhar_kurnia
+
+pada week00. kita diajarkan cara membuat repository pada github dan cara masuk ke server badak.cs.ui.ac.id
