@@ -20,3 +20,4 @@ drwxr-xr-x  2 azhar.kurnia StafCS 4096 Sep  6 23:26 week09
 drwxr-xr-x  2 azhar.kurnia StafCS 4096 Sep  6 23:26 week10
 drwxr-xr-x  2 azhar.kurnia StafCS 4096 Sep  6 23:26 xtra
 /home/fasilkom/mahasiswa/a/azhar.kurnia/os172/week01
+Today is 07 Sep 2017 at 00:08:14
