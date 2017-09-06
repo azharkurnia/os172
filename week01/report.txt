@@ -1,0 +1,3 @@
+#azharkurnia
+
+pada week01, kita diajarkan cara menggunakan git termasuk cara clone repository, push, pull dan lainnya. dan saat step selanjutnya akan ada pengenalan terhadap "scripting" yang segera akan saya lakukan.
