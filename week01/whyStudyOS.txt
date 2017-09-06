@@ -1,1 +1,3 @@
 #azharkurnia
+
+alasannya sangat banyak.tapi alasan utamanya adalah untuk mengetahui sistem operasi sendiri itu sendiri secara lebih dalam. seperti yang sudah diketahaui, komputer itu terdiri dari hardware, os, dan aplikasi. os sendirilah yang menghubungkan antara hardware dengan aplikasi-aplikasi agar dapat dijalankan disebuah komputer. oleh sebab itu penting bagi kita untuk mempelajari tentang sistem operasi.
