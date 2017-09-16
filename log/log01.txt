@@ -3,6 +3,3 @@ w01-170905-16-LR-About:Scripting, From:Lecturer
 w01-170905-17-LR-About:Scripting, From:Lecturer
 w01-170906-23-PS-About: Week01 tasks
 w01-170906-23-PS-About: Week01 tasks
-w02-170907-16-LR-About:Scripting, From:Lecturer
-w02-170907-16-LR-About:Scripting, From:Lecturer
-w02-170907-17-LR-About:Scripting, From:Lecturer
